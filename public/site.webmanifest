@@ -1,0 +1,16 @@
+{
+  "name": "Portfolio",
+  "short_name": "Terminal",
+  "description": "Iqbal Portfolio",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/maskable-icons/pnggithub.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1d2a35",
+  "background_color": "#1d2a35",
+  "display": "standalone"
+}
